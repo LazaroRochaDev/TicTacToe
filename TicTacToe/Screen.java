@@ -143,6 +143,7 @@ public class Screen {
             scanner.close();
         }
         else {
+            game.printGame();
             System.out.println("\nParabéns, " + game.currentPlayer.name + "!!! Você venceu!");
             System.out.println("Precione Enter para reiniciar o jogo.");
             Scanner scanner = new Scanner(System.in);
