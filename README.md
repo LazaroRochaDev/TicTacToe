@@ -1,2 +1,2 @@
 # TicTacToe
-A simples TicTacToe game played in the terminal
+A simple TicTacToe game played on terminal.
